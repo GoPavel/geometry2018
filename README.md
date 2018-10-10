@@ -14,7 +14,7 @@
 
 - [Лекция со слайдами на CS-club](https://compsciclub.ru/en/courses/csseminar/2011-autumn/classes/2404/)
 
-## Лекцция 2
+## Лекция 2
 
 - Предикат поворота.
 
