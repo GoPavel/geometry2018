@@ -2,3 +2,5 @@
 *.log
 *.aux
 *.gz
+*.yaml
+*.fls
